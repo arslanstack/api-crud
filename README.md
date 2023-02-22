@@ -11,7 +11,11 @@ http://localhost:8000/api/student/090078609/update
 <br>  
 
 http://localhost:8000/api/students
+<br>    
+
+http://localhost:8000/api/student/090078609 
 <br>  
+
 
 http://localhost:8000/api/student 
 <br>  
