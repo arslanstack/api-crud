@@ -6,8 +6,8 @@ http://localhost:8000/api/student/090078601/delete
 http://localhost:8000/api/student/090078609/update
 <br>  
 
-    x-www-form-urlencoded
-    ![image](https://user-images.githubusercontent.com/69446621/220558238-8ad1c510-553a-4524-9820-a2312ff8068f.png)
+   ![image](https://user-images.githubusercontent.com/69446621/220558821-d709702d-1436-4a25-8a9c-09de413ed41f.png)
+
 <br>  
 
 http://localhost:8000/api/students
